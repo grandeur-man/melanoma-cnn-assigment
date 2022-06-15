@@ -33,10 +33,10 @@
 
 
 ## Technologies Used
-- keras - version 1.0
-- pyplot - version 2.0
-- pandas - version 3.0
-- numpy - version 
+- keras - version 2.91
+- matplotlib - 3.4.3
+- panda - 1.3.4
+- numpy - 1.20.3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 

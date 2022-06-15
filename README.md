@@ -1,4 +1,4 @@
-# Project Name
+# Multiclass classification model using a custom convolutional neural network in TensorFlow
 > To build a CNN based model which can accurately detect melanoma.
 
 ## Table of Contents
